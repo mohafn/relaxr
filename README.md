@@ -9,7 +9,7 @@
 ### Description 
 
 
-A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter-code/design_file.txt) for the site, along with the copy and assets. Starting in class, you will work to build out a more complex layout for their company site. They decided on creating a blog, and their back-end engineers will be focused on developing the blog's functionality. They want your front-end skills to style their designs using HTML and CSS so Relaxr's engineers can begin integrating. Once again, the designers have handed you a basic [design file with instructions](starter_code/readme) and the JPEG below to help you bring the blog to life. Submit the finished version for homework.
+A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](./starter-code/design_file.txt) for the site, along with the copy and assets. Starting in class, you will work to build out a more complex layout for their company site. They decided on creating a blog, and their back-end engineers will be focused on developing the blog's functionality. They want your front-end skills to style their designs using HTML and CSS so Relaxr's engineers can begin integrating. Once again, the designers have handed you a basic [design file with instructions](starter_code/readme) and the JPEG below to help you bring the blog to life. Submit the finished version for homework.
 
 ![Relaxr Blog](https://i.imgur.com/fFMbLsf.png)
 
