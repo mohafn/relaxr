@@ -1,15 +1,17 @@
-# FEWD Week #3: CSS Layouts
+# FEWD Week #3: CSS Layouts - Relaxr
 
 
 <br>
-
----
 
 
 ### Description 
 
 
-A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter-code/design_file.txt) for the site, along with the copy and assets. Starting in class, you will work to build out a more complex layout for their company site. They decided on creating a blog, and their back-end engineers will be focused on developing the blog's functionality. They want your front-end skills to style their designs using HTML and CSS so Relaxr's engineers can begin integrating. Once again, the designers have handed you a basic [design file with instructions](starter_code/readme) and the JPEG below to help you bring the blog to life. Submit the finished version for homework.
+A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](./starter-code/design_file.txt) for the site, along with the copy and assets. 
+
+Starting in class, you will work to build out a more complex layout for their company site. They decided on creating a blog, and their back-end engineers will be focused on developing the blog's functionality. They want your front-end skills to style their designs using HTML and CSS so Relaxr's engineers can begin integrating. 
+
+The designers have handed you a basic [design file with instructions](./starter-code/design_file.txt) and the JPEG below to help you bring the blog to life. Submit the finished version for homework.
 
 ![Relaxr Blog](https://i.imgur.com/fFMbLsf.png)
 
@@ -31,8 +33,8 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ### Technical Requirements 
 
-- Use in-line-block or floats in your CSS to achieve a two-column layout
-- Use the correct ```Open Sans``` Google Font typeface to style the text denoted in the [design file](starter_code/readme) and according to the JPEG provided
+- Use CSS Flexbox or CSS Grid in your CSS to achieve a two-column layout
+- Use the correct ```Open Sans``` Google Font typeface to style the text denoted in the [design file](./starter-code/design_file.txt) and according to the JPEG provided
 - Use proper filename conventions (lowercase, .html)
 - Use a single external CSS stylesheet to style all pages
 - Use a background image for the headers
@@ -41,8 +43,9 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 
 #### Bonus
-- Link the "Blog" link in the header to the page you've built for this assignment
-- Link the "About" link in the header to the [landing page](../../Week_02_Styling/Assignment/starter_code/images/relaxr_landing.jpg) you built last week
+
+- Link the "Blog" link in the header to [GA Blog](https://generalassemb.ly/blog/)
+- Link the "About" link in the header to [MiSK Academy](https://misk.org.sa/miskacademy/services/general-assembly-2019/)
 - Up for a real challenge? Use ```<script>``` tags in your HTML and [read ahead](https://learn.jquery.com/events/event-basics/) to make a dialogue box pop up when a user clicks "Sign Up Now!" that reads "We're Not Ready For Sign-Ups...Yet."
 
 <br>
@@ -57,13 +60,3 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 - [Starter Code, Assets, and Design File](starter_code/)
 - [Prepare for JavaScript/jQuery](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript)
 - [Read ahead on jQuery basics](https://learn.jquery.com/events/event-basics/)
-
-<br>
-
----
-
-### Evaluation / Submission
-
-Students should use the same folder and GitHub repository as the previous project ("homework-landingpage"). When ready for evaluation they should push their code to that repository. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). The maximum possible score on this assignment is 14/14.  Bonus materials are completely optional.
-
-
