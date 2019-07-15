@@ -1,9 +1,7 @@
-# FEWD Week #3: CSS Layouts
+# FEWD Week #3: CSS Layouts - Relaxr
 
 
 <br>
-
----
 
 
 ### Description 
@@ -32,7 +30,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 ### Technical Requirements 
 
 - Use in-line-block or floats in your CSS to achieve a two-column layout
-- Use the correct ```Open Sans``` Google Font typeface to style the text denoted in the [design file](starter_code/readme) and according to the JPEG provided
+- Use the correct ```Open Sans``` Google Font typeface to style the text denoted in the [design file](./starter-code/design_file.txt) and according to the JPEG provided
 - Use proper filename conventions (lowercase, .html)
 - Use a single external CSS stylesheet to style all pages
 - Use a background image for the headers
@@ -57,13 +55,3 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 - [Starter Code, Assets, and Design File](starter_code/)
 - [Prepare for JavaScript/jQuery](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript)
 - [Read ahead on jQuery basics](https://learn.jquery.com/events/event-basics/)
-
-<br>
-
----
-
-### Evaluation / Submission
-
-Students should use the same folder and GitHub repository as the previous project ("homework-landingpage"). When ready for evaluation they should push their code to that repository. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). The maximum possible score on this assignment is 14/14.  Bonus materials are completely optional.
-
-
