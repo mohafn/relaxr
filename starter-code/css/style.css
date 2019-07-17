@@ -1,1 +1,43 @@
+body {
+    background-color:#f0efef;
+}
+header{
+    background-color: #033048;
+    color: #f0efef;
+    height: 100px;
+   
+    
+}
+.headerr {
+    
+    font-size: 24px;
+    padding: 20px;
 
+}
+h1{
+    font-weight: 900;
+
+}
+ .ht {
+    margin-left: 600px;
+    
+}
+
+
+ .ht li{
+    
+    display: inline;
+    
+}
+.ht a{
+    color: #f9e42e;
+}
+  .ht li:after { 
+    content: " | ";
+    color: black;
+  }
+  .ht li:last-child
+  {
+      content: ""
+
+  }
